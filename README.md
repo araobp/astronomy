@@ -23,4 +23,4 @@
 ## 星図
 
 - https://stellarium-web.org/
-- [木星の衛星の見え方](http://www.ncsm.city.nagoya.jp/astro/jupiter/)
+- [木星の衛星の見え方(名古屋市博物館)](http://www.ncsm.city.nagoya.jp/astro/jupiter/)
